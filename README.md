@@ -1,4 +1,5 @@
-Reproducer for JDK SIGBUS bug. Follow these steps:
+### Reproducer for JDK SIGBUS bug. Follow these steps:
+
 1. Install the latest maven from https://maven.apache.org/download.cgi
 2. Ensure you have curl installed (via homebrew or other means)
 3. Run `mvn clean install`
